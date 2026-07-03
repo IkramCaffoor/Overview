@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header-banner.svg" width="100%"/>
+<img src="assets/header-banner.svg" width="100%"/>
 
 <br/>
 
@@ -55,7 +55,7 @@ mission:     break it, detect it,
 
 <br/>
 
-<img src="footer-banner.svg" width="100%"/>
+<img src="assets/matrix-rain (1).svg" width="100%"/>
 
 <br/>
 
@@ -237,7 +237,7 @@ mission:     break it, detect it,
 
 <br/>
 
-<img src="footer-banner.svg" width="100%"/>
+<img src="assets/footer-banner.svg" width="100%"/>
 
 <div align="center">
 
@@ -245,3 +245,4 @@ mission:     break it, detect it,
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IkramCaffoor&color=FF5C00&style=flat-square&label=visits)
 
+</div>
