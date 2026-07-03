@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D0D0D"/>
+      <stop offset="100%" stop-color="#161616"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="200" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#FF5C00"/>
+  <rect x="0" y="196" width="1200" height="4" fill="#FF5C00"/>
+
+  <!-- scanning line -->
+  <rect x="-60" y="0" width="60" height="200" fill="#FF5C00" opacity="0.08">
+    <animate attributeName="x" from="-60" to="1200" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="600" y="105" text-anchor="middle" font-family="monospace" font-size="42" font-weight="bold" fill="#FF5C00">
+    WELCOME TO THE NETWORK
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="2.2s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="600" y="140" text-anchor="middle" font-family="monospace" font-size="16" fill="#FFFFFF" opacity="0.9">
+    IKRAM CAFFOOR // OFFENSIVE &amp; DEFENSIVE SECURITY
+  </text>
+</svg>
