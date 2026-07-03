@@ -1,0 +1,664 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160">
+<rect x="0" y="0" width="1200" height="160" fill="#0D0D0D"/>
+<g id="col0">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">ア</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">&</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">イ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">コ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">+</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">1</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">%</text>
+<animateTransform attributeName="transform" type="translate" from="10 -12" to="10 220" dur="4.38s" begin="1.58s" repeatCount="indefinite"/>
+</g>
+<g id="col1">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">カ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">ア</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">&</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">#</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">1</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">+</text>
+<animateTransform attributeName="transform" type="translate" from="30 -17" to="30 220" dur="2.29s" begin="1.73s" repeatCount="indefinite"/>
+</g>
+<g id="col2">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">1</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">+</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">+</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">$</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">1</text>
+<animateTransform attributeName="transform" type="translate" from="50 -149" to="50 220" dur="4.38s" begin="2.52s" repeatCount="indefinite"/>
+</g>
+<g id="col3">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">#</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">ウ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">&</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">イ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">+</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">ク</text>
+<animateTransform attributeName="transform" type="translate" from="70 -74" to="70 220" dur="2.31s" begin="3.43s" repeatCount="indefinite"/>
+</g>
+<g id="col4">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">+</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87"><</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">オ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">コ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">イ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">&</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">/</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">ア</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">+</text>
+<animateTransform attributeName="transform" type="translate" from="90 -148" to="90 220" dur="4.08s" begin="0.72s" repeatCount="indefinite"/>
+</g>
+<g id="col5">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">#</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">|</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">ケ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">@</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">+</text>
+<animateTransform attributeName="transform" type="translate" from="110 -136" to="110 220" dur="3.62s" begin="1.99s" repeatCount="indefinite"/>
+</g>
+<g id="col6">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">/</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">|</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">カ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">ア</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">+</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">ク</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">%</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">!</text>
+<animateTransform attributeName="transform" type="translate" from="130 -46" to="130 220" dur="3.03s" begin="0.99s" repeatCount="indefinite"/>
+</g>
+<g id="col7">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">イ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">%</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">#</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">エ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">|</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">ケ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">ウ</text>
+<animateTransform attributeName="transform" type="translate" from="150 -18" to="150 220" dur="3.88s" begin="1.15s" repeatCount="indefinite"/>
+</g>
+<g id="col8">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">|</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">&</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">+</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">ケ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">ケ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">/</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">コ</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">=</text>
+<animateTransform attributeName="transform" type="translate" from="170 -19" to="170 220" dur="3.17s" begin="3.85s" repeatCount="indefinite"/>
+</g>
+<g id="col9">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">キ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">!</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">/</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">></text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">ア</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">1</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">\</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">/</text>
+<animateTransform attributeName="transform" type="translate" from="190 -23" to="190 220" dur="3.53s" begin="1.82s" repeatCount="indefinite"/>
+</g>
+<g id="col10">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">ク</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">/</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">$</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">></text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">コ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">0</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">@</text>
+<animateTransform attributeName="transform" type="translate" from="210 -114" to="210 220" dur="3.69s" begin="3.97s" repeatCount="indefinite"/>
+</g>
+<g id="col11">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">オ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">|</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">ク</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">ウ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">\</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">カ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">$</text>
+<animateTransform attributeName="transform" type="translate" from="230 -15" to="230 220" dur="2.59s" begin="0.47s" repeatCount="indefinite"/>
+</g>
+<g id="col12">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">@</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">$</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">&</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">キ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">ウ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">#</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">&</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">キ</text>
+<animateTransform attributeName="transform" type="translate" from="250 -42" to="250 220" dur="4.31s" begin="1.99s" repeatCount="indefinite"/>
+</g>
+<g id="col13">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">カ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">ウ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">ア</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">エ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">ウ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">カ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">></text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">カ</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">0</text>
+<text x="0" y="162" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">!</text>
+<animateTransform attributeName="transform" type="translate" from="270 -97" to="270 220" dur="3.16s" begin="1.44s" repeatCount="indefinite"/>
+</g>
+<g id="col14">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">#</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">&</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">コ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">=</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">+</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">ケ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">ウ</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">/</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">%</text>
+<animateTransform attributeName="transform" type="translate" from="290 -37" to="290 220" dur="2.62s" begin="1.13s" repeatCount="indefinite"/>
+</g>
+<g id="col15">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">|</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">></text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">&</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">$</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">$</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">$</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">$</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">イ</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">!</text>
+<animateTransform attributeName="transform" type="translate" from="310 -116" to="310 220" dur="3.71s" begin="2.96s" repeatCount="indefinite"/>
+</g>
+<g id="col16">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">@</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">エ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">イ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">ケ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">=</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">1</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">イ</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">0</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">+</text>
+<text x="0" y="162" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">ウ</text>
+<animateTransform attributeName="transform" type="translate" from="330 -53" to="330 220" dur="3.12s" begin="0.76s" repeatCount="indefinite"/>
+</g>
+<g id="col17">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">ア</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">オ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">=</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">$</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">ウ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35"><</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">キ</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">コ</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">=</text>
+<animateTransform attributeName="transform" type="translate" from="350 -6" to="350 220" dur="2.43s" begin="1.45s" repeatCount="indefinite"/>
+</g>
+<g id="col18">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">@</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">!</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">!</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">ク</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">ア</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">ウ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">イ</text>
+<animateTransform attributeName="transform" type="translate" from="370 -124" to="370 220" dur="3.29s" begin="0.46s" repeatCount="indefinite"/>
+</g>
+<g id="col19">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">%</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">0</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">オ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">%</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">コ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">ウ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">/</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">&</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">0</text>
+<text x="0" y="162" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">|</text>
+<animateTransform attributeName="transform" type="translate" from="390 -41" to="390 220" dur="2.99s" begin="1.06s" repeatCount="indefinite"/>
+</g>
+<g id="col20">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">/</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">キ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">%</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">コ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">エ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">コ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">|</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">カ</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">&</text>
+<animateTransform attributeName="transform" type="translate" from="410 -23" to="410 220" dur="2.89s" begin="2.57s" repeatCount="indefinite"/>
+</g>
+<g id="col21">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">=</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">|</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">オ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">カ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">$</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">\</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">カ</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">オ</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">%</text>
+<animateTransform attributeName="transform" type="translate" from="430 -57" to="430 220" dur="3.99s" begin="1.32s" repeatCount="indefinite"/>
+</g>
+<g id="col22">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">キ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">!</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">キ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">オ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">/</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">=</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">コ</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">@</text>
+<animateTransform attributeName="transform" type="translate" from="450 -7" to="450 220" dur="3.02s" begin="0.12s" repeatCount="indefinite"/>
+</g>
+<g id="col23">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">ア</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">カ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">イ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">カ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">!</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">オ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">ケ</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">オ</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">!</text>
+<text x="0" y="162" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">=</text>
+<animateTransform attributeName="transform" type="translate" from="470 -93" to="470 220" dur="4.47s" begin="3.82s" repeatCount="indefinite"/>
+</g>
+<g id="col24">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00"><</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">ア</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">></text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">イ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">$</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">/</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">|</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">オ</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">!</text>
+<animateTransform attributeName="transform" type="translate" from="490 -88" to="490 220" dur="4.13s" begin="1.92s" repeatCount="indefinite"/>
+</g>
+<g id="col25">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">\</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">$</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">@</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">$</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">\</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">ア</text>
+<animateTransform attributeName="transform" type="translate" from="510 -22" to="510 220" dur="3.2s" begin="2.54s" repeatCount="indefinite"/>
+</g>
+<g id="col26">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">ウ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">+</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">@</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61"><</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">ウ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">=</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">=</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">!</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">></text>
+<text x="0" y="162" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">コ</text>
+<animateTransform attributeName="transform" type="translate" from="530 -7" to="530 220" dur="2.57s" begin="3.97s" repeatCount="indefinite"/>
+</g>
+<g id="col27">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">\</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87"><</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">イ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">%</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">\</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">ウ</text>
+<animateTransform attributeName="transform" type="translate" from="550 -3" to="550 220" dur="3.46s" begin="0.52s" repeatCount="indefinite"/>
+</g>
+<g id="col28">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">0</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">キ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">オ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">ク</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">%</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">カ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">|</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">+</text>
+<animateTransform attributeName="transform" type="translate" from="570 -54" to="570 220" dur="4.47s" begin="0.78s" repeatCount="indefinite"/>
+</g>
+<g id="col29">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">1</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">\</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">コ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">@</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">></text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">+</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">%</text>
+<animateTransform attributeName="transform" type="translate" from="590 -33" to="590 220" dur="2.8s" begin="1.68s" repeatCount="indefinite"/>
+</g>
+<g id="col30">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">&</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">ウ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">%</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">%</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">0</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">@</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">|</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">エ</text>
+<animateTransform attributeName="transform" type="translate" from="610 -33" to="610 220" dur="4.1s" begin="3.51s" repeatCount="indefinite"/>
+</g>
+<g id="col31">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">ウ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">!</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">=</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">\</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">イ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">&</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">1</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">ケ</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">></text>
+<animateTransform attributeName="transform" type="translate" from="630 -44" to="630 220" dur="2.21s" begin="3.2s" repeatCount="indefinite"/>
+</g>
+<g id="col32">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">&</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">1</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">カ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">オ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">キ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">1</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">|</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">イ</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">%</text>
+<animateTransform attributeName="transform" type="translate" from="650 -27" to="650 220" dur="3.42s" begin="1.93s" repeatCount="indefinite"/>
+</g>
+<g id="col33">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">@</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">ケ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">=</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">%</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">=</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">%</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">オ</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">/</text>
+<animateTransform attributeName="transform" type="translate" from="670 -16" to="670 220" dur="3.49s" begin="3.04s" repeatCount="indefinite"/>
+</g>
+<g id="col34">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">%</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">カ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">/</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">%</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">キ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">&</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">オ</text>
+<animateTransform attributeName="transform" type="translate" from="690 -122" to="690 220" dur="3.24s" begin="2.13s" repeatCount="indefinite"/>
+</g>
+<g id="col35">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">ケ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">ア</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">></text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">カ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">#</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">ア</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">オ</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">></text>
+<animateTransform attributeName="transform" type="translate" from="710 -113" to="710 220" dur="2.52s" begin="0.49s" repeatCount="indefinite"/>
+</g>
+<g id="col36">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">/</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87"><</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">></text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">コ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">ウ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">キ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">ウ</text>
+<animateTransform attributeName="transform" type="translate" from="730 -39" to="730 220" dur="4.0s" begin="3.59s" repeatCount="indefinite"/>
+</g>
+<g id="col37">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">!</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">エ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">></text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">カ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">エ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">/</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">#</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">%</text>
+<animateTransform attributeName="transform" type="translate" from="750 -101" to="750 220" dur="2.71s" begin="3.81s" repeatCount="indefinite"/>
+</g>
+<g id="col38">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">ア</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">\</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">コ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">0</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">ケ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">&</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">@</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">@</text>
+<animateTransform attributeName="transform" type="translate" from="770 -81" to="770 220" dur="2.98s" begin="0.78s" repeatCount="indefinite"/>
+</g>
+<g id="col39">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">ク</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">%</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">ア</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">イ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">カ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">イ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">ア</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">キ</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">キ</text>
+<text x="0" y="162" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">1</text>
+<animateTransform attributeName="transform" type="translate" from="790 -159" to="790 220" dur="2.24s" begin="1.33s" repeatCount="indefinite"/>
+</g>
+<g id="col40">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">></text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">キ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">$</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">ウ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">&</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">%</text>
+<animateTransform attributeName="transform" type="translate" from="810 -108" to="810 220" dur="2.82s" begin="0.52s" repeatCount="indefinite"/>
+</g>
+<g id="col41">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">1</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">/</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">エ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">#</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">ア</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">キ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">0</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15"><</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">ア</text>
+<animateTransform attributeName="transform" type="translate" from="830 -71" to="830 220" dur="3.34s" begin="1.31s" repeatCount="indefinite"/>
+</g>
+<g id="col42">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">キ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">イ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">@</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">0</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">ケ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">&</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">#</text>
+<animateTransform attributeName="transform" type="translate" from="850 -17" to="850 220" dur="2.39s" begin="3.42s" repeatCount="indefinite"/>
+</g>
+<g id="col43">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">イ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">エ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">キ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">1</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">エ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">オ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">ク</text>
+<animateTransform attributeName="transform" type="translate" from="870 -61" to="870 220" dur="3.63s" begin="0.17s" repeatCount="indefinite"/>
+</g>
+<g id="col44">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">@</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">%</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">></text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">エ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">キ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">コ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">0</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">キ</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">1</text>
+<text x="0" y="162" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">0</text>
+<animateTransform attributeName="transform" type="translate" from="890 -74" to="890 220" dur="2.9s" begin="3.04s" repeatCount="indefinite"/>
+</g>
+<g id="col45">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">%</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">!</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">カ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">@</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">イ</text>
+<animateTransform attributeName="transform" type="translate" from="910 -48" to="910 220" dur="3.89s" begin="2.2s" repeatCount="indefinite"/>
+</g>
+<g id="col46">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">&</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">$</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">%</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">ク</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">/</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">オ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">カ</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">ケ</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">オ</text>
+<text x="0" y="162" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">/</text>
+<animateTransform attributeName="transform" type="translate" from="930 -126" to="930 220" dur="4.08s" begin="1.73s" repeatCount="indefinite"/>
+</g>
+<g id="col47">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">1</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">ウ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">0</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">ア</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48"><</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">\</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">キ</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">#</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">エ</text>
+<text x="0" y="162" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">1</text>
+<animateTransform attributeName="transform" type="translate" from="950 -88" to="950 220" dur="3.66s" begin="1.62s" repeatCount="indefinite"/>
+</g>
+<g id="col48">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">></text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">ク</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">=</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">カ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">/</text>
+<animateTransform attributeName="transform" type="translate" from="970 -129" to="970 220" dur="3.73s" begin="1.52s" repeatCount="indefinite"/>
+</g>
+<g id="col49">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">@</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">0</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">キ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">コ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">ケ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">&</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">ケ</text>
+<animateTransform attributeName="transform" type="translate" from="990 -68" to="990 220" dur="2.3s" begin="0.74s" repeatCount="indefinite"/>
+</g>
+<g id="col50">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">コ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">エ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">0</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">ケ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">$</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">ア</text>
+<animateTransform attributeName="transform" type="translate" from="1010 -55" to="1010 220" dur="2.28s" begin="3.53s" repeatCount="indefinite"/>
+</g>
+<g id="col51">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">%</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">|</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">0</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">ア</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">キ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">ア</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">ウ</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">$</text>
+<animateTransform attributeName="transform" type="translate" from="1030 -63" to="1030 220" dur="2.84s" begin="2.62s" repeatCount="indefinite"/>
+</g>
+<g id="col52">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00"><</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">カ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">ア</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">+</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">%</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">|</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">ウ</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">></text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">/</text>
+<animateTransform attributeName="transform" type="translate" from="1050 -77" to="1050 220" dur="2.3s" begin="0.09s" repeatCount="indefinite"/>
+</g>
+<g id="col53">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">ウ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">ク</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">\</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">=</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48"><</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">ウ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">1</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">/</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">%</text>
+<animateTransform attributeName="transform" type="translate" from="1070 -126" to="1070 220" dur="3.1s" begin="1.3s" repeatCount="indefinite"/>
+</g>
+<g id="col54">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">ウ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">%</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">|</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">%</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">+</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">0</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">></text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">+</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">/</text>
+<text x="0" y="162" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">></text>
+<animateTransform attributeName="transform" type="translate" from="1090 -129" to="1090 220" dur="3.19s" begin="2.8s" repeatCount="indefinite"/>
+</g>
+<g id="col55">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">ウ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87"><</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">コ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">イ</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">$</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">@</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">&</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">1</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15"><</text>
+<text x="0" y="162" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">0</text>
+<animateTransform attributeName="transform" type="translate" from="1110 -10" to="1110 220" dur="3.68s" begin="0.34s" repeatCount="indefinite"/>
+</g>
+<g id="col56">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">0</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">@</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">ア</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">\</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">%</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">&</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">ア</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">></text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">%</text>
+<text x="0" y="162" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">ア</text>
+<animateTransform attributeName="transform" type="translate" from="1130 -67" to="1130 220" dur="3.42s" begin="0.98s" repeatCount="indefinite"/>
+</g>
+<g id="col57">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">キ</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">カ</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">\</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">|</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">オ</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">カ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">\</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15"><</text>
+<text x="0" y="144" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">@</text>
+<text x="0" y="162" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">!</text>
+<animateTransform attributeName="transform" type="translate" from="1150 -19" to="1150 220" dur="3.89s" begin="1.01s" repeatCount="indefinite"/>
+</g>
+<g id="col58">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">|</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">1</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">=</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61"><</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48"><</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">オ</text>
+<text x="0" y="108" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.22">ア</text>
+<text x="0" y="126" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.15">=</text>
+<animateTransform attributeName="transform" type="translate" from="1170 -73" to="1170 220" dur="2.38s" begin="3.64s" repeatCount="indefinite"/>
+</g>
+<g id="col59">
+<text x="0" y="0" font-family="monospace" font-size="16" fill="#FF5C00" opacity="1.00">=</text>
+<text x="0" y="18" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.87">+</text>
+<text x="0" y="36" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.74">ウ</text>
+<text x="0" y="54" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.61">0</text>
+<text x="0" y="72" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.48">!</text>
+<text x="0" y="90" font-family="monospace" font-size="16" fill="#7a2e00" opacity="0.35">1</text>
+<animateTransform attributeName="transform" type="translate" from="1190 -77" to="1190 220" dur="2.96s" begin="2.61s" repeatCount="indefinite"/>
+</g>
+</svg>
