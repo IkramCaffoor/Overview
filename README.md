@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- Header banner - fixed (simplified params for reliable rendering) -->
 <img src="assets/header-banner.svg" width="100%"/>
 
 <br/>
@@ -17,7 +18,7 @@
 
 <br/>
 
-## OPERATIVE PROFILE
+## 📟 Operative Profile
 
 <table>
 <tr>
@@ -55,25 +56,11 @@ mission:     break it, detect it,
 
 <br/>
 
-<img src="assets/matrix-rain (1).svg" width="100%"/>
-
-<br/>
-
-## NETWORK SCAN
-
-<div align="center">
-
-<img src="assets/radar-scan.svg" width="420"/>
-
-</div>
-
-<br/>
-
 <img src="footer-banner.svg" width="100%"/>
 
 <br/>
 
-## LIVE ENGAGEMENT LOG
+## 🖥️ Live Engagement Log
 
 <div align="center">
 
@@ -82,7 +69,7 @@ mission:     break it, detect it,
 
 **Matrix feed:**
 
-<img src="matrix-rain.svg" width="100%"/>
+<img src="assets/matrix-rain (1).svg" width="100%"/>
 
 </div>
 
@@ -92,7 +79,7 @@ mission:     break it, detect it,
 
 <br/>
 
-## ARSENAL
+## 🧰 Arsenal
 
 <div align="center">
 
@@ -106,7 +93,7 @@ mission:     break it, detect it,
 
 </div>
 
-### OFFENSE — Recon, Exploitation & Post-Exploitation
+### 🔴 Offense — Recon, Exploitation & Post-Exploitation
 
 <div align="center">
 
@@ -124,7 +111,7 @@ mission:     break it, detect it,
 
 </div>
 
-### REVERSE ENGINEERING & BINARY EXPLOITATION
+### 🔎 Reverse Engineering & Binary Exploitation
 
 <div align="center">
 
@@ -136,7 +123,7 @@ mission:     break it, detect it,
 
 </div>
 
-### DEFENSE — SOC, Threat Detection & Incident Response
+### 🔵 Defense — SOC, Threat Detection & Incident Response
 
 <div align="center">
 
@@ -153,7 +140,7 @@ mission:     break it, detect it,
 
 ---
 
-## PURPLE TEAM MATRIX
+## 🟠🔵 Purple Team Matrix
 
 <div align="center">
 
@@ -172,7 +159,7 @@ mission:     break it, detect it,
 
 ---
 
-## CAPABILITY INDEX
+## 📈 Capability Index
 
 <div align="center">
 
@@ -192,7 +179,7 @@ mission:     break it, detect it,
 
 ---
 
-## CERTIFICATIONS & TRAINING
+## 🎓 Certifications & Training
 
 <div align="center">
 
@@ -208,7 +195,7 @@ mission:     break it, detect it,
 
 ---
 
-## COMPETITIVE TRACK RECORD
+## 🏁 Competitive Track Record
 
 | Event | Host | Result |
 |---|---|---|
@@ -221,12 +208,12 @@ mission:     break it, detect it,
 
 ---
 
-## LIVE METRICS
+## 📊 Live Metrics
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IkramCaffoor&theme=github_dark" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=IkramCaffoor&show_icons=true&theme=dark&hide_border=true&title_color=FF5C00&icon_color=FF5C00&text_color=ffffff&bg_color=0D0D0D" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IkramCaffoor&show_icons=true&theme=dark&hide_border=true&title_color=FF5C00&icon_color=FF5C00&text_color=ffffff&bg_color=0D0D0D&count_private=true" width="49%"/>
 
 <br/>
 
@@ -241,7 +228,7 @@ mission:     break it, detect it,
 
 <div align="center">
 
-**Reach out — always open to internship opportunities in security operations.**
+**Reach out - always open to internship opportunities in security operations.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IkramCaffoor&color=FF5C00&style=flat-square&label=visits)
 
