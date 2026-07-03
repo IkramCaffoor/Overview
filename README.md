@@ -69,7 +69,6 @@ mission:     break it, detect it,
 
 
 <img src="matrix-rain.svg" width="100%"/>
-
 </div>
 
 <br/>
