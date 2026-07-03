@@ -63,7 +63,7 @@ mission:     break it, detect it,
 
 <div align="center">
 
-<img src="radar-scan.svg" width="420"/>
+<img src="assets/radar-scan.svg" width="420"/>
 
 </div>
 
