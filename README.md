@@ -25,7 +25,7 @@
 <tr>
 <td width="60%">
 
-I'm a **Cybersecurity & IT undergraduate** focused on offensive security — penetration testing, exploit development, and adversarial simulation. I train daily through CTFs and lab environments, documenting every compromise with a proper risk write-up, the way it'd be done on a real engagement.
+I'm a **Cybersecurity & IT undergraduate** focused on offensive security - penetration testing, exploit development, and adversarial simulation. I train daily through CTFs and lab environments, documenting every compromise with a proper risk write-up, the way it'd be done on a real engagement.
 
 Currently working toward **OSCP**, and building tooling that speeds up recon and reporting during assessments.
 
@@ -159,7 +159,7 @@ mission:     break it, document it,
 
 <div align="center">
 
-**Reach out — always open to internship opportunities in security operations.**
+**Reach out - always open to internship opportunities in security operations.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IkramCaffoor&color=FF5C00&style=flat-square&label=visits)
 
