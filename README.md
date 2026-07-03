@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Header banner - fixed (simplified params for reliable rendering) -->
-<img src="assets/header-banner.svg" width="100%"/>
+<img src="header-banner.svg" width="100%"/>
 
 <br/>
 
@@ -18,7 +17,7 @@
 
 <br/>
 
-## 📟 Operative Profile
+## OPERATIVE PROFILE
 
 <table>
 <tr>
@@ -60,16 +59,11 @@ mission:     break it, detect it,
 
 <br/>
 
-## 🖥️ Live Engagement Log
+## NETWORK SCAN
 
 <div align="center">
 
-<!-- Animated attack-chain simulation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=1200&color=FF5C00&center=true&vCenter=true&width=900&height=140&separator=%7C&lines=root%40kali%3A~%23+nmap+-sV+-p-+10.10.14.22;%5B%2B%5D+22%2Fssh+80%2Fhttp+445%2Fsmb+open;root%40kali%3A~%23+gobuster+dir+-u+http%3A%2F%2F10.10.14.22+-w+wordlist.txt;%5B%2B%5D+%2Fadmin+%2Fbackup+%2Fapi+found;root%40kali%3A~%23+msfconsole+-q+-x+%22use+exploit%2Fmulti%2Fhandler%22;%5B%2B%5D+meterpreter+session+1+opened;root%40kali%3A~%23+whoami+%2F%2F+nt+authority%5Csystem;%5B%2A%5D+privilege+escalation+complete+%E2%9C%93)](https://git.io/typing-svg)
-
-**Matrix feed:**
-
-<img src="assets/matrix-rain (1).svg" width="100%"/>
+<img src="radar-scan.svg" width="420"/>
 
 </div>
 
@@ -79,7 +73,26 @@ mission:     break it, detect it,
 
 <br/>
 
-## 🧰 Arsenal
+## LIVE ENGAGEMENT LOG
+
+<div align="center">
+
+<!-- Animated attack-chain simulation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=1200&color=FF5C00&center=true&vCenter=true&width=900&height=140&separator=%7C&lines=root%40kali%3A~%23+nmap+-sV+-p-+10.10.14.22;%5B%2B%5D+22%2Fssh+80%2Fhttp+445%2Fsmb+open;root%40kali%3A~%23+gobuster+dir+-u+http%3A%2F%2F10.10.14.22+-w+wordlist.txt;%5B%2B%5D+%2Fadmin+%2Fbackup+%2Fapi+found;root%40kali%3A~%23+msfconsole+-q+-x+%22use+exploit%2Fmulti%2Fhandler%22;%5B%2B%5D+meterpreter+session+1+opened;root%40kali%3A~%23+whoami+%2F%2F+nt+authority%5Csystem;%5B%2A%5D+privilege+escalation+complete+%E2%9C%93)](https://git.io/typing-svg)
+
+**Matrix feed:**
+
+<img src="matrix-rain.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="footer-banner.svg" width="100%"/>
+
+<br/>
+
+## ARSENAL
 
 <div align="center">
 
@@ -93,7 +106,7 @@ mission:     break it, detect it,
 
 </div>
 
-### 🔴 Offense — Recon, Exploitation & Post-Exploitation
+### OFFENSE — Recon, Exploitation & Post-Exploitation
 
 <div align="center">
 
@@ -111,7 +124,7 @@ mission:     break it, detect it,
 
 </div>
 
-### 🔎 Reverse Engineering & Binary Exploitation
+### REVERSE ENGINEERING & BINARY EXPLOITATION
 
 <div align="center">
 
@@ -123,7 +136,7 @@ mission:     break it, detect it,
 
 </div>
 
-### 🔵 Defense — SOC, Threat Detection & Incident Response
+### DEFENSE — SOC, Threat Detection & Incident Response
 
 <div align="center">
 
@@ -140,7 +153,7 @@ mission:     break it, detect it,
 
 ---
 
-## 🟠🔵 Purple Team Matrix
+## PURPLE TEAM MATRIX
 
 <div align="center">
 
@@ -159,7 +172,7 @@ mission:     break it, detect it,
 
 ---
 
-## 📈 Capability Index
+## CAPABILITY INDEX
 
 <div align="center">
 
@@ -179,7 +192,7 @@ mission:     break it, detect it,
 
 ---
 
-## 🎓 Certifications & Training
+## CERTIFICATIONS & TRAINING
 
 <div align="center">
 
@@ -195,7 +208,7 @@ mission:     break it, detect it,
 
 ---
 
-## 🏁 Competitive Track Record
+## COMPETITIVE TRACK RECORD
 
 | Event | Host | Result |
 |---|---|---|
@@ -208,12 +221,12 @@ mission:     break it, detect it,
 
 ---
 
-## 📊 Live Metrics
+## LIVE METRICS
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IkramCaffoor&theme=github_dark" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=IkramCaffoor&show_icons=true&theme=dark&hide_border=true&title_color=FF5C00&icon_color=FF5C00&text_color=ffffff&bg_color=0D0D0D&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IkramCaffoor&show_icons=true&theme=dark&hide_border=true&title_color=FF5C00&icon_color=FF5C00&text_color=ffffff&bg_color=0D0D0D" width="49%"/>
 
 <br/>
 
@@ -224,12 +237,11 @@ mission:     break it, detect it,
 
 <br/>
 
-<img src="assets/footer-banner.svg" width="100%"/>
+<img src="footer-banner.svg" width="100%"/>
 
 <div align="center">
 
-**Reach out - always open to internship opportunities in security operations.**
+**Reach out — always open to internship opportunities in security operations.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IkramCaffoor&color=FF5C00&style=flat-square&label=visits)
 
-</div>
