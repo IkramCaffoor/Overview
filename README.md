@@ -1,281 +1,166 @@
 <div align="center">
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+<!-- Glitch-style waving banner, true DedSec palette -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&text=WELCOME%20TO%20THE%20NETWORK&fontColor=FF5C00&fontSize=42&fontAlign=50&fontAlignY=38&animation=twinkling&desc=IKRAM%20CAFFOOR%20//%20OFFENSIVE%20SECURITY%20OPERATIVE&descAlign=50&descAlignY=62&descSize=16&descColor=FFFFFF"/>
 
 <br/>
 
-<!-- Header banner - DedSec orange/black theme -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=IkramCaffoor&fontSize=75&color=0,0,0,255&fontColor=FF8000&desc=DedSec%20Operative%20%7C%20Red%20Team%20%7C%20CTF%20Hacker&descSize=18&descAlignY=75&animation=fadeIn&stroke=FF8000&strokeWidth=2"/>
+<!-- Multi-line cycling terminal boot sequence -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=FF5C00&center=true&vCenter=true&width=800&separator=%3B&lines=%3E+ctOS+access+granted...;%3E+scanning+for+open+ports...;%3E+privilege+escalation+successful...;%3E+identity%3A+Ikram+Caffoor+%2F%2F+Red+Team;%3E+status%3A+online+and+hacking+ethically)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Typing animation - DedSec orange terminal style -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8000&center=true&vCenter=true&width=750&lines=Welcome+to+the+Resistance+%F0%9F%A6%8A;DedSec+Operative+%7C+Offensive+Security+%F0%9F%94%B4;Hacking+for+a+Better+Tomorrow%F0%9F%92%BB;CTF+Competitor+%7C+Bay+Area+of+Cyberspace+%F0%9F%9A%A9;We+Are+DedSec.+We+Are+Everywhere.)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social Badges - orange DedSec palette -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF8000?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/ikramcafoor)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=FF8000)](https://app.hackthebox.com/profile/2143373)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF8000?style=for-the-badge&logo=firefox-browser&logoColor=black)](https://ikramcaffoor.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FF8000)](https://github.com/IkramCaffoor)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=IkramCaffoor&color=FF8000&style=for-the-badge&label=OPERATIVE+SPOTTED)
-[![GitHub followers](https://img.shields.io/github/followers/IkramCaffoor?label=Followers&style=for-the-badge&color=FF8000&labelColor=0d0d0d)](https://github.com/IkramCaffoor?tab=followers)
-
-<br/>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+<!-- Access clearance badges - static, professional -->
+![Clearance](https://img.shields.io/badge/CLEARANCE-OPERATIVE-FF5C00?style=for-the-badge&labelColor=0D0D0D)
+![Status](https://img.shields.io/badge/STATUS-ACTIVELY%20HACKING-FF5C00?style=for-the-badge&labelColor=0D0D0D)
+![Focus](https://img.shields.io/badge/FOCUS-RED%20TEAM-FF5C00?style=for-the-badge&labelColor=0D0D0D)
 
 </div>
 
 <br/>
 
-## 🦊 `ctOS Breach — Identity Located`
-
-```bash
-┌──(IkramCaffoor@dedsec)-[San Francisco Bay Area]
-└─$ ./access_profile.sh --target=IkramCaffoor
-
-  ██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗
-  ██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝
-  ██║  ██║█████╗  ██║  ██║███████╗█████╗  ██║
-  ██║  ██║██╔══╝  ██║  ██║╚════██║██╔══╝  ██║
-  ██████╔╝███████╗██████╔╝███████║███████╗╚██████╗
-  ╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚══════╝ ╚═════╝
-
-  [*] Alias      : Ikram Caffoor
-  [*] Role       : Cybersecurity Enthusiast | Red Team Focus
-  [*] Faction    : DedSec — hacking for the people, breaking things ethically
-  [*] Status     : CTF Competitor & Offensive Security Learner
-  [*] Focus      : Penetration Testing | Linux Systems | Web Exploitation
-  [*] Mission    : Motivated and detail-oriented individual with a strong
-                   interest in offensive security and Linux systems.
-  [*] ctOS Link  : https://app.hackthebox.com/profile/2143373
-  [*] Safehouse  : https://ikramcaffoor.github.io/Portfolio/
-
-  [+] Currently  : Hunting flags & breaching boxes ethically 🦊
-  [+] Learning   : Advanced Red Team Tactics & Exploit Development
-  [+] Endgame    : OSCP Certified Penetration Tester
-
-  [ACCESS GRANTED] :: welcome to the network, operative.
-```
-
-<br/>
-
-<div align="center">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
-</div>
-
-<br/>
-
-## 🕶️ Hacker Loadout
-
-<div align="center">
-
-### 🐧 Operating Systems
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=FF8000)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-000000?style=for-the-badge&logo=linux&logoColor=FF8000)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=FF8000)
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FF8000)
-
-### 🛠️ Hacking Toolkit
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FF8000)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burp-suite&logoColor=FF8000)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=FF8000)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=FF8000)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=linux&logoColor=FF8000)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=linux&logoColor=FF8000)
-![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashnode&logoColor=FF8000)
-![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=mysql&logoColor=FF8000)
-
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF8000)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FF8000)
-![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=FF8000)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF8000)
-
-### 🎯 CTF & Training Platforms
-![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=FF8000)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=FF8000)
-![CTFtime](https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=target&logoColor=FF8000)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
-</div>
-
-<br/>
-
-## 📡 ctOS Surveillance — Skill Breach Levels
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    OFFENSIVE CAPABILITIES                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  [████████████████████░░░░]  Web Application Pentesting   80%   ║
-║  [█████████████████░░░░░░░]  Network Reconnaissance        70%  ║
-║  [████████████████░░░░░░░░]  Linux Privilege Escalation    65%  ║
-║  [███████████████░░░░░░░░░]  CTF Challenges                60%  ║
-║  [████████████░░░░░░░░░░░░]  Exploit Development           50%  ║
-║  [██████████░░░░░░░░░░░░░░]  Malware Analysis              40%  ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-## 🎯 Operations & Specialties
+## 📟 Operative Profile
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### 🦊 Red Team Ops
-```
-[+] Penetration Testing
-[+] Social Engineering
-[+] Network Exploitation
-[+] Web Application Attacks
-[+] Post-Exploitation
-[+] Lateral Movement
-```
+I'm a **Cybersecurity & IT undergraduate** focused on offensive security — penetration testing, exploit development, and adversarial simulation. I train daily through CTFs and lab environments, documenting every compromise with a proper risk write-up, the way it'd be done on a real engagement.
+
+Currently working toward **OSCP**, and building tooling that speeds up recon and reporting during assessments.
 
 </td>
-<td width="50%">
+<td width="40%">
 
-### 🔓 Security Research
-```
-[+] Vulnerability Research
-[+] CTF Competitions
-[+] Reverse Engineering
-[+] Binary Exploitation
-[+] Cryptography Challenges
-[+] OSINT Techniques
+```yaml
+codename:    IkramCaffoor
+role:        Red Team / Pentest
+based_in:    Sri Lanka
+objective:   OSCP Certified
+platforms:   HTB · THM · PortSwigger
+mission:     break it, document it,
+             help fix it
 ```
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
-</div>
-
-<br/>
-
-## 📊 ctOS Data Feed
-
 <div align="center">
 
-<!-- Stats card - orange DedSec theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=IkramCaffoor&show_icons=true&theme=dark&hide_border=true&title_color=FF8000&icon_color=FF8000&text_color=ffffff&bg_color=0d0d0d&count_private=true&include_all_commits=true" width="49%"/>
-
-<!-- Streak card -->
-<img src="https://streak-stats.demolab.com/?user=IkramCaffoor&theme=dark&hide_border=true&ring=FF8000&fire=FF8000&currStreakLabel=FF8000&background=0d0d0d&stroke=FF8000&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
-
-<br/><br/>
-
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkramCaffoor&layout=compact&theme=dark&hide_border=true&title_color=FF8000&text_color=ffffff&bg_color=0d0d0d&langs_count=8" width="42%"/>
-
-<br/><br/>
-
-<!-- Activity graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IkramCaffoor&bg_color=0d0d0d&color=FF8000&line=FF8000&point=ffffff&area=true&hide_border=true&area_color=331a00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0D0D0D?style=flat-square&logo=linkedin&logoColor=FF5C00)](https://linkedin.com/in/ikramcafoor)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-profile-0D0D0D?style=flat-square&logo=hackthebox&logoColor=FF5C00)](https://app.hackthebox.com/profile/2143373)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-0D0D0D?style=flat-square&logo=firefox-browser&logoColor=FF5C00)](https://ikramcaffoor.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-contact-0D0D0D?style=flat-square&logo=gmail&logoColor=FF5C00)](mailto:ikram.caffoor@gmail.com)
 
 </div>
 
 <br/>
 
+---
+
+## 🧰 Arsenal
+
 <div align="center">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+
+**Systems**
+
+<img src="https://skillicons.dev/icons?i=linux,debian,windows&theme=dark" />
+
+**Offensive Tooling**
+
+![Metasploit](https://img.shields.io/badge/Metasploit-0D0D0D?style=flat-square&logo=metasploit&logoColor=FF5C00)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D0D0D?style=flat-square&logo=burpsuite&logoColor=FF5C00)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D0D0D?style=flat-square&logo=wireshark&logoColor=FF5C00)
+![Nmap](https://img.shields.io/badge/Nmap-0D0D0D?style=flat-square&logo=nmap&logoColor=FF5C00)
+![Hashcat](https://img.shields.io/badge/Hashcat-0D0D0D?style=flat-square&logo=hashcat&logoColor=FF5C00)
+![SQLMap](https://img.shields.io/badge/SQLMap-0D0D0D?style=flat-square&logo=sqlite&logoColor=FF5C00)
+![Ghidra](https://img.shields.io/badge/Ghidra-0D0D0D?style=flat-square&logo=ghidra&logoColor=FF5C00)
+
+**Languages & Scripting**
+
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,php,powershell&theme=dark" />
+
+**SIEM / Blue Team Exposure**
+
+![Splunk](https://img.shields.io/badge/Splunk-0D0D0D?style=flat-square&logo=splunk&logoColor=FF5C00)
+![Elastic](https://img.shields.io/badge/ELK_Stack-0D0D0D?style=flat-square&logo=elastic&logoColor=FF5C00)
+
 </div>
 
 <br/>
 
-## 🏆 Trophies
+---
+
+## 📈 Capability Index
 
 <div align="center">
 
-<!-- Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=IkramCaffoor&theme=dracula&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+| Domain | Level |
+|---|---|
+| Web Application Pentesting | ████████████████░░░░ `80%` |
+| Network Reconnaissance | ██████████████░░░░░░ `70%` |
+| Linux Privilege Escalation | █████████████░░░░░░░ `65%` |
+| CTF / Competitive Hacking | ████████████░░░░░░░░ `60%` |
+| Exploit Development | ██████████░░░░░░░░░░ `50%` |
+| Malware Analysis | ████████░░░░░░░░░░░░ `40%` |
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
-</div>
+---
 
-<br/>
-
-## 🐍 Contribution Snake
+## 🎓 Certifications & Training
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IkramCaffoor/IkramCaffoor/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IkramCaffoor/IkramCaffoor/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/IkramCaffoor/IkramCaffoor/output/github-snake-dark.svg"/>
-</picture>
+![CSEH](https://img.shields.io/badge/C%7CCSEH-Cyber%20Security%20%26%20Ethical%20Hacking-FF5C00?style=for-the-badge&labelColor=0D0D0D)
+![TCM](https://img.shields.io/badge/TCM%20Security-Linux%20100%3A%20Fundamentals-FF5C00?style=for-the-badge&labelColor=0D0D0D)
+![UOM](https://img.shields.io/badge/University%20of%20Moratuwa-Python%20Trainee-FF5C00?style=for-the-badge&labelColor=0D0D0D)
+![CYBARY](https://img.shields.io/badge/CYBARY-Offensive%20Security%20Operations-FF5C00?style=for-the-badge&labelColor=0D0D0D)
 
 </div>
 
 <br/>
 
+---
+
+## 🏁 Competitive Track Record
+
+| Event | Host | Result |
+|---|---|---|
+| CryptX 2.0 | University of Sri Jayewardenepura | Top 15 → Final Round (Top 10) |
+| CyberQuest | IIT Sri Lanka | 2nd Place Round 1 → Final Round (Top 10) |
+| Sleigh The Flag | NSBM Green University | Top 5 Finish |
+| Cyber Summit CTF | CICRA Campus | Top 5 Finish |
+
+<br/>
+
+---
+
+## 📊 Live Metrics
+
 <div align="center">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IkramCaffoor&theme=github_dark" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IkramCaffoor&show_icons=true&theme=dark&hide_border=true&title_color=FF5C00&icon_color=FF5C00&text_color=ffffff&bg_color=0D0D0D&count_private=true" width="49%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IkramCaffoor&theme=github_dark" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=IkramCaffoor&theme=dark&hide_border=true&ring=FF5C00&fire=FF5C00&currStreakLabel=FF5C00&background=0D0D0D&stroke=FF5C00&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+
 </div>
 
 <br/>
 
-## 📶 Join the Network
+---
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ikramcafoor">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-FF8000?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://app.hackthebox.com/profile/2143373">
-  <img src="https://img.shields.io/badge/HackTheBox-View%20Profile-000000?style=for-the-badge&logo=hackthebox&logoColor=FF8000"/>
-</a>
-&nbsp;
-<a href="https://ikramcaffoor.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF8000?style=for-the-badge&logo=firefox-browser&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://github.com/IkramCaffoor">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=FF8000"/>
-</a>
+**Reach out — always open to internship opportunities in security operations.**
 
-<br/><br/>
-
-```
-┌──(IkramCaffoor@dedsec)-[~]
-└─$ echo "Thanks for visiting the safehouse. Stay curious, stay ethical. 🦊"
-
-Thanks for visiting the safehouse. Stay curious, stay ethical. 🦊
-
-┌──(IkramCaffoor@dedsec)-[~]
-└─$
-```
-
-<br/>
-
-*"Information should be free — but ethics never optional."* 🦊
-
-<br/>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=IkramCaffoor&color=FF5C00&style=flat-square&label=visits)
 
 </div>
