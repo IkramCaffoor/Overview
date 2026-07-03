@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header banner - fixed (simplified params for reliable rendering) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0D0D0D&text=WELCOME%20TO%20THE%20NETWORK&fontColor=FF5C00&fontSize=38&animation=fadeIn&desc=IKRAM%20CAFFOOR%20//%20OFFENSIVE%20%26%20DEFENSIVE%20SECURITY&descAlignY=62&descSize=15&descColor=FFFFFF"/>
+<img src="assets/header-banner.svg" width="100%"/>
 
 <br/>
 
@@ -56,7 +56,7 @@ mission:     break it, detect it,
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF5C00&section=footer"/>
+<img src="footer-banner.svg" width="100%"/>
 
 <br/>
 
@@ -67,13 +67,15 @@ mission:     break it, detect it,
 <!-- Animated attack-chain simulation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=1200&color=FF5C00&center=true&vCenter=true&width=900&height=140&separator=%7C&lines=root%40kali%3A~%23+nmap+-sV+-p-+10.10.14.22;%5B%2B%5D+22%2Fssh+80%2Fhttp+445%2Fsmb+open;root%40kali%3A~%23+gobuster+dir+-u+http%3A%2F%2F10.10.14.22+-w+wordlist.txt;%5B%2B%5D+%2Fadmin+%2Fbackup+%2Fapi+found;root%40kali%3A~%23+msfconsole+-q+-x+%22use+exploit%2Fmulti%2Fhandler%22;%5B%2B%5D+meterpreter+session+1+opened;root%40kali%3A~%23+whoami+%2F%2F+nt+authority%5Csystem;%5B%2A%5D+privilege+escalation+complete+%E2%9C%93)](https://git.io/typing-svg)
 
+**Matrix feed:**
 
 <img src="assets/matrix-rain (1).svg" width="100%"/>
+
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF5C00&section=footer"/>
+<img src="footer-banner.svg" width="100%"/>
 
 <br/>
 
@@ -222,11 +224,11 @@ mission:     break it, detect it,
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0D0D0D&section=footer&animation=fadeIn"/>
+<img src="assets/footer-banner.svg" width="100%"/>
 
 <div align="center">
 
-**Reach out — always open to internship opportunities in security operations.**
+**Reach out - always open to internship opportunities in security operations.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IkramCaffoor&color=FF5C00&style=flat-square&label=visits)
 
