@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Glitch-style waving banner, true DedSec palette -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&text=WELCOME%20TO%20THE%20NETWORK&fontColor=FF5C00&fontSize=42&fontAlign=50&fontAlignY=38&animation=twinkling&desc=IKRAM%20CAFFOOR%20//%20OFFENSIVE%20%26%20DEFENSIVE%20SECURITY&descAlign=50&descAlignY=62&descSize=16&descColor=FFFFFF"/>
+<!-- Header banner - fixed (simplified params for reliable rendering) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0D0D0D&text=WELCOME%20TO%20THE%20NETWORK&fontColor=FF5C00&fontSize=38&animation=fadeIn&desc=IKRAM%20CAFFOOR%20//%20OFFENSIVE%20%26%20DEFENSIVE%20SECURITY&descAlignY=62&descSize=15&descColor=FFFFFF"/>
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 I'm a **Cybersecurity & IT undergraduate** who works both sides of the fight — breaking into systems as an attacker, and reading the same attacks from a defender's seat. On offense I focus on web app pentesting, network exploitation, and privilege escalation. On defense I train on SOC alert triage, log analysis, and incident response.
 
-Currently working toward **OSCP**, and building tooling that speeds up recon and reporting during assessments.
+I build tooling that speeds up recon and reporting during assessments, and document every compromise with a proper risk write-up — the way it'd be done on a real engagement.
 
 </td>
 <td width="40%">
@@ -35,7 +35,6 @@ Currently working toward **OSCP**, and building tooling that speeds up recon and
 codename:    IkramCaffoor
 role:        Red Team / Blue Team
 based_in:    Sri Lanka
-objective:   OSCP Certified
 platforms:   HTB · THM · PortSwigger
              LetsDefend
 mission:     break it, detect it,
@@ -65,8 +64,12 @@ mission:     break it, detect it,
 
 <div align="center">
 
-<!-- Second animated sequence: a fake attack chain, purely visual -->
+<!-- Animated attack-chain simulation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=1200&color=FF5C00&center=true&vCenter=true&width=900&height=140&separator=%7C&lines=root%40kali%3A~%23+nmap+-sV+-p-+10.10.14.22;%5B%2B%5D+22%2Fssh+80%2Fhttp+445%2Fsmb+open;root%40kali%3A~%23+gobuster+dir+-u+http%3A%2F%2F10.10.14.22+-w+wordlist.txt;%5B%2B%5D+%2Fadmin+%2Fbackup+%2Fapi+found;root%40kali%3A~%23+msfconsole+-q+-x+%22use+exploit%2Fmulti%2Fhandler%22;%5B%2B%5D+meterpreter+session+1+opened;root%40kali%3A~%23+whoami+%2F%2F+nt+authority%5Csystem;%5B%2A%5D+privilege+escalation+complete+%E2%9C%93)](https://git.io/typing-svg)
+
+**Matrix feed** *(commit this repo's `assets/matrix-rain.svg` to your profile repo, then it'll animate live on your GitHub page — GitHub preserves SVG animation inside image embeds):*
+
+<img src="./assets/matrix-rain.svg" width="100%"/>
 
 </div>
 
@@ -95,16 +98,16 @@ mission:     break it, detect it,
 <div align="center">
 
 ![Nmap](https://img.shields.io/badge/Nmap-0D0D0D?style=flat-square&logo=nmap&logoColor=FF5C00)
-![Gobuster](https://img.shields.io/badge/Gobuster-0D0D0D?style=flat-square&logoColor=FF5C00)
-![ffuf](https://img.shields.io/badge/ffuf-0D0D0D?style=flat-square&logoColor=FF5C00)
-![Subfinder](https://img.shields.io/badge/Subfinder-0D0D0D?style=flat-square&logoColor=FF5C00)
+![Gobuster](https://img.shields.io/badge/Gobuster-0D0D0D?style=flat-square&logo=go&logoColor=FF5C00)
+![ffuf](https://img.shields.io/badge/ffuf-0D0D0D?style=flat-square&logo=curl&logoColor=FF5C00)
+![Subfinder](https://img.shields.io/badge/Subfinder-0D0D0D?style=flat-square&logo=go&logoColor=FF5C00)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D0D0D?style=flat-square&logo=burpsuite&logoColor=FF5C00)
-![SQLMap](https://img.shields.io/badge/SQLMap-0D0D0D?style=flat-square&logo=sqlite&logoColor=FF5C00)
+![SQLMap](https://img.shields.io/badge/SQLMap-0D0D0D?style=flat-square&logo=python&logoColor=FF5C00)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0D0D0D?style=flat-square&logo=metasploit&logoColor=FF5C00)
-![Ligolo](https://img.shields.io/badge/Ligolo--ng-0D0D0D?style=flat-square&logoColor=FF5C00)
+![Ligolo](https://img.shields.io/badge/Ligolo--ng-0D0D0D?style=flat-square&logo=go&logoColor=FF5C00)
 ![Hashcat](https://img.shields.io/badge/Hashcat-0D0D0D?style=flat-square&logo=hashcat&logoColor=FF5C00)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-0D0D0D?style=flat-square&logoColor=FF5C00)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0D0D0D?style=flat-square&logoColor=FF5C00)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-0D0D0D?style=flat-square&logo=openssl&logoColor=FF5C00)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0D0D0D?style=flat-square&logo=linux&logoColor=FF5C00)
 
 </div>
 
@@ -112,11 +115,11 @@ mission:     break it, detect it,
 
 <div align="center">
 
-![Ghidra](https://img.shields.io/badge/Ghidra-0D0D0D?style=flat-square&logo=ghidra&logoColor=FF5C00)
+![Ghidra](https://img.shields.io/badge/Ghidra-0D0D0D?style=flat-square&logo=openjdk&logoColor=FF5C00)
 ![IDA](https://img.shields.io/badge/IDA_Pro-0D0D0D?style=flat-square&logoColor=FF5C00)
-![x64dbg](https://img.shields.io/badge/x64dbg-0D0D0D?style=flat-square&logoColor=FF5C00)
+![x64dbg](https://img.shields.io/badge/x64dbg-0D0D0D?style=flat-square&logo=windows&logoColor=FF5C00)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D0D0D?style=flat-square&logo=wireshark&logoColor=FF5C00)
-![Steg](https://img.shields.io/badge/Steganography-0D0D0D?style=flat-square&logoColor=FF5C00)
+![Steg](https://img.shields.io/badge/Steganography-0D0D0D?style=flat-square&logo=imagemagick&logoColor=FF5C00)
 
 </div>
 
@@ -126,10 +129,10 @@ mission:     break it, detect it,
 
 ![Splunk](https://img.shields.io/badge/Splunk-0D0D0D?style=flat-square&logo=splunk&logoColor=FF5C00)
 ![Elastic](https://img.shields.io/badge/ELK_Stack-0D0D0D?style=flat-square&logo=elastic&logoColor=FF5C00)
-![Crowdstrike](https://img.shields.io/badge/CrowdStrike_EDR-0D0D0D?style=flat-square&logoColor=FF5C00)
-![Cortex XDR](https://img.shields.io/badge/Cortex_XDR-0D0D0D?style=flat-square&logoColor=FF5C00)
-![Trellix](https://img.shields.io/badge/Trellix-0D0D0D?style=flat-square&logoColor=FF5C00)
-![Wireshark](https://img.shields.io/badge/Traffic_Analysis-0D0D0D?style=flat-square&logo=wireshark&logoColor=FF5C00)
+![Crowdstrike](https://img.shields.io/badge/CrowdStrike_EDR-0D0D0D?style=flat-square&logo=crowdstrike&logoColor=FF5C00)
+![Cortex XDR](https://img.shields.io/badge/Cortex_XDR-0D0D0D?style=flat-square&logo=paloaltosoftware&logoColor=FF5C00)
+![Trellix](https://img.shields.io/badge/Trellix-0D0D0D?style=flat-square&logo=mcafee&logoColor=FF5C00)
+![Traffic Analysis](https://img.shields.io/badge/Traffic_Analysis-0D0D0D?style=flat-square&logo=wireshark&logoColor=FF5C00)
 
 </div>
 
@@ -162,13 +165,13 @@ mission:     break it, detect it,
 
 | Domain | Level |
 |---|---|
-| Web Application Pentesting | ████████████████░░░░ `80%` |
-| Network Reconnaissance | ██████████████░░░░░░ `70%` |
-| Linux Privilege Escalation | █████████████░░░░░░░ `65%` |
-| SOC / Blue Team Fundamentals | ████████████░░░░░░░░ `60%` |
-| CTF / Competitive Hacking | ████████████░░░░░░░░ `60%` |
-| Exploit Development | ██████████░░░░░░░░░░ `50%` |
-| Malware Analysis | ████████░░░░░░░░░░░░ `40%` |
+| Web Application Pentesting | ████████████████░░░░ Advanced |
+| Network Reconnaissance | ██████████████░░░░░░ Advanced |
+| Linux Privilege Escalation | █████████████░░░░░░░ Intermediate |
+| SOC / Blue Team Fundamentals | ████████████░░░░░░░░ Intermediate |
+| CTF / Competitive Hacking | ████████████░░░░░░░░ Intermediate |
+| Exploit Development | ██████████░░░░░░░░░░ Developing |
+| Malware Analysis | ████████░░░░░░░░░░░░ Developing |
 
 </div>
 
@@ -221,7 +224,7 @@ mission:     break it, detect it,
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0D0D0D&section=footer&animation=fadeIn"/>
 
 <div align="center">
 
