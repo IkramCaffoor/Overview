@@ -68,7 +68,7 @@ mission:     break it, detect it,
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=1200&color=FF5C00&center=true&vCenter=true&width=900&height=140&separator=%7C&lines=root%40kali%3A~%23+nmap+-sV+-p-+10.10.14.22;%5B%2B%5D+22%2Fssh+80%2Fhttp+445%2Fsmb+open;root%40kali%3A~%23+gobuster+dir+-u+http%3A%2F%2F10.10.14.22+-w+wordlist.txt;%5B%2B%5D+%2Fadmin+%2Fbackup+%2Fapi+found;root%40kali%3A~%23+msfconsole+-q+-x+%22use+exploit%2Fmulti%2Fhandler%22;%5B%2B%5D+meterpreter+session+1+opened;root%40kali%3A~%23+whoami+%2F%2F+nt+authority%5Csystem;%5B%2A%5D+privilege+escalation+complete+%E2%9C%93)](https://git.io/typing-svg)
 
 
-<img src="matrix-rain.svg" width="100%"/>
+<img src="assets/matrix-rain (1).svg" width="100%"/>
 </div>
 
 <br/>
