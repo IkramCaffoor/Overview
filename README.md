@@ -48,7 +48,7 @@ mission:     break it, detect it,
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0D0D0D?style=flat-square&logo=linkedin&logoColor=FF5C00)](https://linkedin.com/in/ikramcafoor)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-profile-0D0D0D?style=flat-square&logo=hackthebox&logoColor=FF5C00)](https://app.hackthebox.com/profile/2143373)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-profile-0D0D0D?style=flat-square&logo=hackthebox&logoColor=FF5C00)](https://profile.hackthebox.com/profile/019c5709-738a-7075-951f-4896994759ae)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-0D0D0D?style=flat-square&logo=firefox-browser&logoColor=FF5C00)](https://ikramcaffoor.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-contact-0D0D0D?style=flat-square&logo=gmail&logoColor=FF5C00)](mailto:ikram.caffoor@gmail.com)
 
